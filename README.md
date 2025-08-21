@@ -65,7 +65,7 @@ cd mysql-day2-task
 
 ER Diagram of the Database :
 
-![mysql_day2-task](./mysql_day_2 task.JPG)
+![mysql_day2-task](./mysql_day_2task.JPG)
 
 MYSQL Table Definitions :
 
